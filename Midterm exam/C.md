@@ -1,5 +1,4 @@
-
-``
+```
 #include <stdio.h>
  
 int main()
@@ -51,7 +50,7 @@ int main(void)
     getch();
     }
  ```
-
+ 
  ```
  #include <stdio.h>
 long int multiplyNumbers(int n);
@@ -70,3 +69,4 @@ long int multiplyNumbers(int n)
     else
         return 1;
 }
+ ```
